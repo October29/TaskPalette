@@ -1,4 +1,4 @@
-# Colorful To-Do List 🌈
+# Task Palette 🌈
 
 Una aplicación de lista de tareas (to-do list) desarrollada en React + Vite. Permite a los usuarios agregar, editar y gestionar tareas con opciones de personalización de colores. 📝🎨
 
