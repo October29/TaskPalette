@@ -1,0 +1,135 @@
+
+.task_card_pending {
+  max-width: 400px;
+  padding: 1rem 1.5rem;
+  border-radius: 0.8rem;
+  background-color: #c57bcf;
+  transition: all 0.3s ease;
+}
+
+.task_card_complete {
+  position: relative;
+  z-index: 0;
+  max-width: 400px;
+  padding: 1rem 1.5rem;
+  margin: 1rem 0 0;
+  border-radius: 0.8rem;
+  opacity: 0.6;
+  background-color: #7ca595;
+  transition: all 0.3s ease;
+
+  transform: scale(0.99);
+}
+
+.name_task_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.task_name {
+  width: 90%;
+  overflow-wrap: break-word;
+}
+
+.task_name, .task_description {
+  color: white;
+  overflow-wrap: break-word;
+}
+
+.task_card_pending .task_description {
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+  border-radius: 0.4rem;
+  background-color: #4b414a60;
+}
+
+.task_card_complete .task_description {
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+  border-radius: 0.4rem;
+  background-color: #4b414a60;
+}
+
+.stage_container {
+  width: fit-content;
+  padding: 0.5rem;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: white;
+}
+
+.buttons_container {
+  display: flex;
+  justify-content: space-between;
+  border: none;
+}
+
+.delete_button {
+  width: 2.2rem;
+  height: 2.2rem;
+  border: none;
+  border-radius: 0.3rem;
+
+  background-image: url("../../assets/trash.svg");
+  background-size: 70%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #df4a4a62;
+
+  transition: all 0.2s ease-in-out; 
+  cursor: pointer;
+}
+
+.delete_button:hover {
+  background-color: #ff2b2bc9;
+  transform: scale(1.1);
+}
+
+.delete_button:active {
+  background-color: #ff0000;
+  transform: scale(1);
+}
+
+.task_card_complete .check_label {
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #4b7568;
+  margin-right: 0.6rem;
+}
+
+.task_card_pending .check_label {
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #aa5ca4;
+  margin-right: 0.6rem;
+}
+
+input[type="checkbox"]::after {
+  outline:  #aa5ca4;
+}
+
+.edit_button {
+  width: 1.7rem;
+  height: 1.7rem;
+  border: none;
+  border-radius: 0.3rem;
+
+  background-image: url("../../assets/editIcon.svg");
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #2e292c4b;
+
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+.edit_button:hover {
+  filter: brightness(5);
+  transform: scale(1.2);
+}
+
+.edit_button:active {
+  transform: scale(1);
+}

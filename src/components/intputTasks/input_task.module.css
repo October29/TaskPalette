@@ -1,0 +1,27 @@
+.form_task {
+ display: flex;
+ justify-content: center;
+
+ padding: 3rem 0;
+}
+
+.input_text {
+  padding: 0.3rem 1rem;
+  border: none;
+  border-radius: 1rem 0 0 1rem;
+
+  background-color: #ffffffde;
+}
+
+.input_text:focus {
+  outline: dashed 1px #726f6c62;
+}
+
+.send_task_button{
+  padding: 0.3rem 1rem;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 0 1rem 1rem 0;
+  background-color: #fc8aa3;
+}

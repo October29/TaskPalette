@@ -1,0 +1,26 @@
+.task_card_container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  max-width: 450px;
+  height: 70vh;
+  padding:  2rem;
+  margin: auto;
+  overflow: scroll;
+  
+
+  border-radius: 1rem;
+
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: #fcd5ea;
+  box-shadow: 5px 5px 10px #645b611a;
+}
+
+.task_card_container h2 {
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
+
+  color: #ffffff;
+  background-color: #5314463b;
+}

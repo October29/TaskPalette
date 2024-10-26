@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="-2.4 -2.4 28.80 28.80"
+   fill="none"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="close.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.9475"
+     inkscape:cx="400.5277"
+     inkscape:cy="400.5277"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Menu / Close_SM" />
+  <g
+     id="SVGRepo_bgCarrier"
+     stroke-width="0"
+     transform="translate(3.24,3.24), scale(0.73)">
+    <rect
+       x="-2.4"
+       y="-2.4"
+       width="28.80"
+       height="28.80"
+       rx="6.624"
+       fill="#b1b4bd"
+       strokewidth="0"
+       id="rect2"
+       style="fill:#b1b4bd;fill-opacity:0.2611903" />
+  </g>
+  <g
+     id="SVGRepo_tracerCarrier"
+     stroke-linecap="round"
+     stroke-linejoin="round" />
+  <g
+     id="SVGRepo_iconCarrier">
+    <g
+       id="Menu / Close_SM">
+      <g
+         id="Vector">
+        <path
+           style="color:#000000;fill:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+           d="m 16,16 -4,-4 m 0,0 -4,-4 m 4,4 4,-4 m -4,4 -4,4"
+           id="path1055" />
+        <path
+           style="color:#000000;fill:#ffffff;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
+           d="m 8,7 a 1,1 0 0 0 -0.7070313,0.2929687 1,1 0 0 0 0,1.4140626 L 10.585938,12 7.2929687,15.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140626,0 L 12,13.414063 l 3.292969,3.292968 a 1,1 0 0 0 1.414062,0 1,1 0 0 0 0,-1.414062 L 13.414063,12 16.707031,8.7070313 a 1,1 0 0 0 0,-1.4140626 1,1 0 0 0 -1.414062,0 L 12,10.585938 8.7070313,7.2929687 A 1,1 0 0 0 8,7 Z"
+           id="path1057" />
+      </g>
+    </g>
+  </g>
+</svg>
